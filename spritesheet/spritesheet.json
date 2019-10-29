@@ -75,9 +75,9 @@
     "stairs_new_3.png": {
       "frame": {
         "x": 482,
-        "y": 1280,
+        "y": 1281,
         "w": 480,
-        "h": 609
+        "h": 607
       },
       "rotated": false,
       "trimmed": false,
