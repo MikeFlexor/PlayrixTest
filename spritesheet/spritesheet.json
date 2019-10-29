@@ -147,9 +147,9 @@
     "decor_back_2.png": {
       "frame": {
         "x": 963,
-        "y": 1290,
-        "w": 374,
-        "h": 304
+        "y": 1283,
+        "w": 375,
+        "h": 307
       },
       "rotated": false,
       "trimmed": false,
